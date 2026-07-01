@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+<div align="center">
+  <a href="https://commit-history.com/adidoit">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/adidoit?theme=dark" />
+      <img alt="adidoit's commit history" src="https://commit-history.com/embed/adidoit" />
+    </picture>
+  </a>
+</div>
+
 <!--
 **adidoit/adidoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
