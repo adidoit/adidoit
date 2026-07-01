@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Adi. I'm building socratify.ai because we're on the verge of the greatest white-collar disruption in history .
+
+Socratify is a career skills agent. That focuses on hard-to-learn skills like judgment and critical thinking in your domain 
 
 <div align="center">
   <a href="https://commit-history.com/adidoit">
