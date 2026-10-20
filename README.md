@@ -2,7 +2,9 @@
 
 I'm Adi. I'm building socratify.ai because we're on the verge of the greatest white-collar disruption in history .
 
-Socratify is a career skills agent. That focuses on hard-to-learn skills like judgment and critical thinking in your domain 
+Socratify is a career skills agent that focuses on hard-to-learn skills like judgment and critical thinking in your domain. 
+
+Just tell it your professional goal, it'll create a deeply researched learning track, setup hyper-realistic sessions and track your progress against a skills matrix.
 
 <!--
 **adidoit/adidoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
